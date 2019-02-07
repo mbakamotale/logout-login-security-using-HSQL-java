@@ -15,3 +15,6 @@
 
 ## Run
 ```mvn clean spring-boot:run```
+
+## Server used
+- Tomcat server v8.5
