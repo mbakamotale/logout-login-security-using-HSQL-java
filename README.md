@@ -22,3 +22,6 @@ persistence.
 
 ## Persistence
 - In-memory persistence.
+
+## IDE used
+- Eclipse.
