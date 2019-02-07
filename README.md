@@ -18,3 +18,7 @@
 
 ## Server used
 - Tomcat server v8.5
+persistence.
+
+## Persistence
+- In-memory persistence.
